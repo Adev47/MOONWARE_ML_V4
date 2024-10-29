@@ -1,0 +1,13 @@
+[design]
+highlight_color = #199819
+loader_box_color = #070707
+main_text_color = #ededed
+main_widgets_color = #050505
+
+[links]
+discord_link = https://discord.gg/moon-ware
+guide_link = https://
+website_link = https://moon-ware.sellauth.com/
+
+[rounded_corners]
+main_widgets = 12
