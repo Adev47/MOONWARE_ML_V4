@@ -1,2 +1,2 @@
-Black Moon,online,1.00.03,https://raw.githubusercontent.com/avod245/641737145215877171_cloud/main/BlackMoon_BO6.rar
+Black Moon,online,1.00.04,https://raw.githubusercontent.com/avod245/641737145215877171_cloud/main/BlackMoon_BO6.rar
 UNLOCK ALL,online,1.00.02,https://raw.githubusercontent.com/avod245/641737145215877171_cloud/main/blops-UA.exe
