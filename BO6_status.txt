@@ -1,1 +1,2 @@
 Goat External,online,1.00.01,https://raw.githubusercontent.com/avod245/641737145215877171_cloud/main/LDV2_GOAT.exe
+Extazy External,online,1.00.01,https://raw.githubusercontent.com/avod245/641737145215877171_cloud/main/PG1027_Extazy.exe
