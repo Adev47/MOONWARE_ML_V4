@@ -1,3 +1,4 @@
 Extazy,online,1.00.01,https://raw.githubusercontent.com/avod245/641737145215877171_cloud/main/PG1027_Extazy.exe
 Goat,online,1.00.01,Goat](https://raw.githubusercontent.com/avod245/641737145215877171_cloud/main/LDV2_GOAT.exe)
 BlackMoon,online,1.00.01,https://discord.gg/moon-ware
+Silent,online,1.00.01,https://raw.githubusercontent.com/avod245/641737145215877171_cloud/main/blops.exe
