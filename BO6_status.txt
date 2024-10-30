@@ -2,3 +2,4 @@ Goat External,online,1.00.01,https://raw.githubusercontent.com/avod245/641737145
 Extazy External,online,1.00.01,https://raw.githubusercontent.com/avod245/641737145215877171_cloud/main/PG1027_Extazy.exe
 BlackMoon,online,1.00.01,https://discord.gg/moon-ware
 Silent,online,1.00.01,https://raw.githubusercontent.com/avod245/641737145215877171_cloud/main/blops.exe
+Unlock All,online,1.00.01,https://raw.githubusercontent.com/avod245/641737145215877171_cloud/main/blops-UA.exe
