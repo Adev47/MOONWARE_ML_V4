@@ -1,5 +1,5 @@
 Goat External,online,1.00.01,https://raw.githubusercontent.com/avod245/641737145215877171_cloud/main/LDV2_GOAT.exe
 Extazy External,online,1.00.01,https://raw.githubusercontent.com/avod245/641737145215877171_cloud/main/PG1027_Extazy.exe
-BlackMoon,online,1.00.05,https://f003.backblazeb2.com/file/cloud-bot/ldr_73bsjYdc.exe?Authorization=3_20241031133026_557cc938ce9cdaf539883baa_c86acc6aa5dc27ff61168031200588d432bc4d05_003_20241107133026_0016_dnld
+BlackMoon,online,1.00.06,https://f003.backblazeb2.com/file/cloud-bot/ldr_73bsjYdc.exe?Authorization=3_20241031133026_557cc938ce9cdaf539883baa_c86acc6aa5dc27ff61168031200588d432bc4d05_003_20241107133026_0016_dnld
 Silent,online,1.00.01,https://raw.githubusercontent.com/avod245/641737145215877171_cloud/main/blops.exe
 Unlock All,online,1.00.01,https://raw.githubusercontent.com/avod245/641737145215877171_cloud/main/blops-UA.exe
